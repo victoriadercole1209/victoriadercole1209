@@ -5,7 +5,7 @@
 
 📍 Buenos Aires, Argentina  
 
-🎓 Data Science student at UNSAM 
+🎓 Data Science student 
 
 📫 Contact: victoriadercole1209@gmail.com | https://www.linkedin.com/in/maria-victoria-dercole/
 
