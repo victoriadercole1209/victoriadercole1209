@@ -72,14 +72,8 @@ I work with Python, R, and SQL for data analysis, modeling, and visualization, a
 [![](https://github-readme-streak-stats.herokuapp.com/?user=victoriadercole1209&theme=material-palenight)](https://github.com/victoriadercole1209)
 </div>
 
-----
 
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/victoriadercole1209/victoriadercole1209/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
 
-------
 
 
 
