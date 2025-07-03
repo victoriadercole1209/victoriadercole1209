@@ -63,7 +63,7 @@ I work with Python, R, and SQL for data analysis, modeling, and visualization, a
 ---
 
 		
-## Featured Projects
+## ✨Featured Projects✨
 | Project | Description |
 |---------|-------------|
 | 📊 [Datamart: Stock and Sales by Province](https://github.com/victoriadercole1209/argentina_ideal_infraestructura) | Analysis of stock distribution and sales by province to detect inefficiencies in inventory allocation. Includes SQL query design in BigQuery and dashboards in Looker Studio. |
