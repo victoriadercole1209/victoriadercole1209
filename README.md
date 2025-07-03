@@ -76,17 +76,12 @@ I work with Python, R, and SQL for data analysis, modeling, and visualization, a
 ## 📊 GitHub Stats
 
 
-📈 Estadísticas Generales
+📈 Activity , Contributions & General Stats
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=victoriadercole1209&show_icons=true&theme=algolia&hide_title=true&hide_border=true" height="180px" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=victoriadercole1209&theme=algolia&hide_border=true" height="180px" /> </div>
-📌 Lenguajes y Repos
+
+
+🌍 Most Used Languages
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoriadercole1209&langs_count=8&layout=compact&theme=algolia&hide_border=true" /> </div>
-
-
-
-
-
-
-
 
 
 
