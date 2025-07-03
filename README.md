@@ -67,7 +67,7 @@ I work with Python, R, and SQL for data analysis, modeling, and visualization, a
 | Project | Description |
 |---------|-------------|
 | 📊 [Datamart: Stock and Sales by Province](https://github.com/victoriadercole1209/datamart-stock-ventas) | Analysis of stock distribution and sales by province to detect inefficiencies in inventory allocation. Includes SQL query design in BigQuery and dashboards in Looker Studio. |
-| 🩺 [Diabetes Diagnosis with ML](https://github.com/victoriadercole1209/diagnostico-diabetes-ml) | Binary classification predictive model for diabetes diagnosis using logistic regression and metrics for imbalanced data. |
+| 🩺 [Diabetes Diagnosis with ML](https://github.com/victoriadercole1209/diabetes_classification_project_) | Binary classification predictive model for diabetes diagnosis using logistic regression and metrics for imbalanced data. |
 | 📐 [Housing Price Prediction](https://github.com/victoriadercole1209/housing_price_prediction) | Linear regression model trained on the Boston Housing dataset to predict housing prices. Includes exploratory data analysis and evaluation of regression metrics. |
 
 
