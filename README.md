@@ -1,5 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=victoriadercole1209&label=Profile%20views&color=0e75b6&style=flat)
 
+
 <h1 align="center"><b>Hi, I'm Victoria D'Ercole</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
@@ -78,7 +79,7 @@ I work with Python, R, and SQL for data analysis, modeling, and visualization, a
 ### 📈 Activity & Contributions
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=victoriadercole1209&theme=react-dark&hide_border=true&area=true" alt="GitHub activity graph" />
+     <img src="https://github-readme-activity-graph.vercel.app/graph?username=victoriadercole1209&theme=react-dark&hide_border=true&area=true" alt="GitHub activity graph" />
 </div>
 
 ### 🔥 General Stats
@@ -98,6 +99,7 @@ I work with Python, R, and SQL for data analysis, modeling, and visualization, a
 
 ---
 
+![Trophies](https://github-profile-trophy.vercel.app/?username=victoriadercole1209&theme=algolia&no-bg=true&margin-w=15)
 
 
-
+---
