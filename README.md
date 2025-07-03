@@ -79,14 +79,6 @@ I work with Python, R, and SQL for data analysis, modeling, and visualization, a
 
 ----
 
-	
-## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/victoriadercole1209/victoriadercole1209/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
-
-
 
 
 
