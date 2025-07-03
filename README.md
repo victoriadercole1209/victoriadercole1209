@@ -1,12 +1,12 @@
-<p align="left">
+
+<h1 align="center"><b>Hi, I'm Victoria D'Ercole</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=victoriadercole1209&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/victoriadercole1209">
     <img src="https://img.shields.io/github/followers/victoriadercole1209?label=Followers&style=social" alt="GitHub followers">
   </a>
 </p>
-<h1 align="center"><b>Hi, I'm Victoria D'Ercole</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
 
 <p align="center">
   <b>👩‍💻 Data Scientist | Buenos Aires, Argentina</b>  
@@ -103,12 +103,7 @@ I work with Python, R, and SQL for data analysis, modeling, and visualization, a
 
 </details>
 
----
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=victoriadercole1209&theme=algolia&no-bg=true&margin-w=15)
-
-
----
 ---
 
 ## 🤝 Let’s Connect
@@ -126,3 +121,11 @@ I work with Python, R, and SQL for data analysis, modeling, and visualization, a
     <img src="https://img.shields.io/badge/Email-Write%20me-red?logo=gmail&style=social" alt="Email">
   </a>
 </p>
+
+
+---
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=victoriadercole1209&theme=algolia&no-bg=true&margin-w=15)
+
+
+---
