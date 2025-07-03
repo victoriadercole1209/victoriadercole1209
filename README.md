@@ -59,23 +59,17 @@ I work with Python, R, and SQL for data analysis, modeling, and visualization, a
 </div>
 
 
----
-
-
-
-## Proyectos destacados
-| Proyecto | Descripción |
-|---------|-------------|
-| 📊 [Datamart: Stock y ventas por provincia](https://github.com/victoriadercole1209/datamart-stock-ventas) | Análisis de distribución de stock y ventas por provincia para detectar ineficiencias en la asignación de inventario. Incluye diseño de consultas SQL en BigQuery y dashboards en Looker Studio. |
-| 🩺 [Diagnóstico de diabetes con ML](https://github.com/victoriadercole1209/diagnostico-diabetes-ml) | Modelo predictivo de clasificación binaria para diagnóstico de diabetes utilizando regresión logística y métricas para datos desbalanceados. |
-| 📐 Prediccin de precios de casas(https://github.com/victoriadercole1209/housing_price_prediction) |Modelo de regresión lineal entrenado sobre el dataset de Boston Housing para predecir precios de viviendas. Incluye análisis exploratorio de datos y evaluación de métricas de regresión.  |
 
 ---
 
 		
+## Featured Projects
+| Project | Description |
+|---------|-------------|
+| 📊 [Datamart: Stock and Sales by Province](https://github.com/victoriadercole1209/datamart-stock-ventas) | Analysis of stock distribution and sales by province to detect inefficiencies in inventory allocation. Includes SQL query design in BigQuery and dashboards in Looker Studio. |
+| 🩺 [Diabetes Diagnosis with ML](https://github.com/victoriadercole1209/diagnostico-diabetes-ml) | Binary classification predictive model for diabetes diagnosis using logistic regression and metrics for imbalanced data. |
+| 📐 [Housing Price Prediction](https://github.com/victoriadercole1209/housing_price_prediction) | Linear regression model trained on the Boston Housing dataset to predict housing prices. Includes exploratory data analysis and evaluation of regression metrics. |
 
-
-	
 
 
 
