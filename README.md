@@ -69,8 +69,8 @@ I work with Python, R, and SQL for data analysis, modeling, and visualization, a
 
 ----
 
-<div align="left">
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+<div align="center">
+<h2 align="left" style="margin: 5px 10px;">Github stats:</h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=victoriadercole1209&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/victoriadercole1209)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=victoriadercole1209&theme=material-palenight)](https://github.com/victoriadercole1209)
