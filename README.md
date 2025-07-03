@@ -71,19 +71,19 @@ I work with Python, R, and SQL for data analysis, modeling, and visualization, a
 | 📐 [Housing Price Prediction](https://github.com/victoriadercole1209/housing_price_prediction) | Linear regression model trained on the Boston Housing dataset to predict housing prices. Includes exploratory data analysis and evaluation of regression metrics. |
 
 
+---
+
+## 📊 GitHub Stats
 
 
-----
-
-<div align="center">
-<h2 align="left" style="margin: 5px 10px;">Github stats:</h2> 
-
-[![](https://github-readme-stats.vercel.app/api?username=victoriadercole1209&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/victoriadercole1209)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=victoriadercole1209&theme=material-palenight)](https://github.com/victoriadercole1209)
-</div>
+📈 Estadísticas Generales
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=victoriadercole1209&show_icons=true&theme=algolia&hide_title=true&hide_border=true" height="180px" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=victoriadercole1209&theme=algolia&hide_border=true" height="180px" /> </div>
+📌 Lenguajes y Repos
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoriadercole1209&langs_count=8&layout=compact&theme=algolia&hide_border=true" /> </div>
 
 
-----
+
+
 
 
 
