@@ -58,7 +58,19 @@ I work with Python, R, and SQL for data analysis, modeling, and visualization, a
 
 </div>
 
-	
+
+---
+
+
+
+## Proyectos destacados
+| Proyecto | Descripción |
+|---------|-------------|
+| 📊 [Datamart: Stock y ventas por provincia](https://github.com/victoriadercole1209/datamart-stock-ventas) | Análisis de distribución de stock y ventas por provincia para detectar ineficiencias en la asignación de inventario. Incluye diseño de consultas SQL en BigQuery y dashboards en Looker Studio. |
+| 🩺 [Diagnóstico de diabetes con ML](https://github.com/victoriadercole1209/diagnostico-diabetes-ml) | Modelo predictivo de clasificación binaria para diagnóstico de diabetes utilizando regresión logística y métricas para datos desbalanceados. |
+| 📐 [Plano tangente y curva en superficie](https://github.com/victoriadercole1209/tangente-superficie) | Cálculo y visualización de planos tangentes y curvas sobre superficies 3D, con representación gráfica en Python. |
+
+---
 
 		
 
