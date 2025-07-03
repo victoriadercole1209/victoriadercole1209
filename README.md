@@ -1,7 +1,12 @@
-![Profile Views](https://komarev.com/ghpvc/?username=victoriadercole1209&label=Profile%20views&color=0e75b6&style=flat)
-
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=victoriadercole1209&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/victoriadercole1209">
+    <img src="https://img.shields.io/github/followers/victoriadercole1209?label=Followers&style=social" alt="GitHub followers">
+  </a>
+</p>
 <h1 align="center"><b>Hi, I'm Victoria D'Ercole</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
 
 <p align="center">
   <b>👩‍💻 Data Scientist | Buenos Aires, Argentina</b>  
@@ -17,7 +22,8 @@
   📫 Contact: victoriadercole1209@gmail.com | <a href="https://www.linkedin.com/in/maria-victoria-dercole/">LinkedIn</a>
 </p>
 
----
+
+
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;About Me
 
@@ -103,3 +109,20 @@ I work with Python, R, and SQL for data analysis, modeling, and visualization, a
 
 
 ---
+---
+
+## 🤝 Let’s Connect
+
+<p align="center">
+  <a href="https://github.com/victoriadercole1209">
+    <img src="https://img.shields.io/github/followers/victoriadercole1209?label=Follow&style=social" alt="GitHub followers">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/maria-victoria-dercole/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=social" alt="LinkedIn">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:victoriadercole1209@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Write%20me-red?logo=gmail&style=social" alt="Email">
+  </a>
+</p>
