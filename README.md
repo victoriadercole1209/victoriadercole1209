@@ -69,7 +69,7 @@ I work with Python, R, and SQL for data analysis, modeling, and visualization, a
 
 ---
 
-## ✨ Featured Projects
+## ✨ Featured Projects ✨
 
 | Project | Description |
 |--------|-------------|
