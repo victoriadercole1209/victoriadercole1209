@@ -82,21 +82,6 @@ I work with Python, R, and SQL for data analysis, modeling, and visualization, a
 | 👩‍💻 [Superstore Sales Analysis](https://github.com/victoriadercole1209/analisis_ventas_superstore) | This project presents an in-depth business intelligence analysis of retail operations using the Superstore dataset. |
 ---
 
-<details>
-<summary>📊 <b>Click to expand GitHub Stats</b></summary>
-
-### 📈 Activity & Contributions
-
-<div align="center">
-     <img src="https://github-readme-activity-graph.vercel.app/graph?username=victoriadercole1209&theme=react-dark&hide_border=true&area=true" alt="GitHub activity graph" />
-</div>
-
-### 🔥 General Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=victoriadercole1209&show_icons=true&theme=algolia&hide_title=true&hide_border=true" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=victoriadercole1209&theme=algolia&hide_border=true" height="180px" />
-</div>
 
 ### 🌍 Most Used Languages
 
@@ -128,7 +113,5 @@ I work with Python, R, and SQL for data analysis, modeling, and visualization, a
 
 ---
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=victoriadercole1209&theme=algolia&no-bg=true&margin-w=15)
 
 
----
