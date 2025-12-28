@@ -80,17 +80,6 @@ I work with Python, R, and SQL for data analysis, modeling, and visualization, a
 | 🩺 [Diabetes Diagnosis with ML](https://github.com/victoriadercole1209/diabetes_classification_project_) | Binary classification model for diabetes diagnosis using logistic regression and metrics for imbalanced data. |
 | 📐 [Housing Price Prediction](https://github.com/victoriadercole1209/housing_price_prediction) | Linear regression model on Boston Housing dataset to predict housing prices. Includes EDA and metric evaluation. |
 | 👩‍💻 [Superstore Sales Analysis](https://github.com/victoriadercole1209/analisis_ventas_superstore) | This project presents an in-depth business intelligence analysis of retail operations using the Superstore dataset. |
----
-
-
-### 🌍 Most Used Languages
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoriadercole1209&langs_count=8&layout=compact&theme=algolia&hide_border=true" />
-</div>
-
-</details>
-
 
 ---
 
