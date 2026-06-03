@@ -19,7 +19,7 @@ I am a **Data Science student** with a strong focus on **Data Engineering and An
 
 I work with **Python and SQL** to build data pipelines, clean and transform datasets, and generate insights through dashboards and structured analysis. I have hands-on experience working with **real datasets**, designing ETL processes, and querying data in **BigQuery**.
 
-My goal is to join a team as a **Junior Data Engineer, Analytics Engineer, or Data Analyst**, where I can contribute with reliable data solutions and continue growing professionally.
+My goal is to join a team as a **Data Analyst**, where I can contribute with reliable data solutions and continue growing professionally.
 
 ---
 
