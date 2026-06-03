@@ -43,7 +43,6 @@ My goal is to join a team as a **Junior Data Engineer, Analytics Engineer, or Da
 - Google Cloud Platform (GCP)
 
 ### Visualization & BI
-- Power BI
 - Looker Studio
 
 ### Tools
@@ -68,7 +67,7 @@ My goal is to join a team as a **Junior Data Engineer, Analytics Engineer, or Da
 ---
 
 ### 🛒 Superstore Sales Analysis  
-**Technologies:** Python, SQL, Power BI  
+**Technologies:** Python, SQL  
 - Business-oriented analysis of retail sales data  
 - Data cleaning and transformation  
 - Dashboard creation to support decision-making  
