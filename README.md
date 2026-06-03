@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi, I'm Victoria D'Ercole</b> 👋</h1>
 
 <p align="center">
-  <b>Junior Data Engineer / Analytics Engineer</b>  
+  <b>Junior Data Analyst</b>  
   <br>
   Buenos Aires, Argentina
 </p>
