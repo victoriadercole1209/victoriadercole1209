@@ -89,14 +89,6 @@ My goal is to join a team as a **Junior Data Engineer, Analytics Engineer, or Da
 
 ---
 
-## 📌 What I'm Looking For
-
-- Junior / Trainee Data Engineer  
-- Analytics Engineer  
-- Data Analyst (SQL / BI focused)
-
-I'm especially interested in roles where I can work with **data pipelines, SQL modeling, and analytics**.
-
 ---
 
 ## 🤝 Let's Connect
