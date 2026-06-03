@@ -66,13 +66,6 @@ My goal is to join a team as a **Junior Data Engineer, Analytics Engineer, or Da
 
 ---
 
-### 🛒 Superstore Sales Analysis  
-**Technologies:** Python, SQL  
-- Business-oriented analysis of retail sales data  
-- Data cleaning and transformation  
-- Dashboard creation to support decision-making  
-
-🔗 https://github.com/victoriadercole1209/analisis_ventas_superstore
 
 ---
 
